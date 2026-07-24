@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+there!+👋;I'm+a+Fullstack+%2F+Backend+Developer;Welcome+to+my+profile!&color=36BCF7" alt="Typing SVG" />
 </h1>
 
-### 💻 Tech Stack
-
 <div align="center">
   
   <h4>🔤 Languages</h4>
