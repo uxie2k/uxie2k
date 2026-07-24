@@ -5,15 +5,12 @@
 
 <br>
 
-### 🔤 Languages
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,nextjs,rect,vue" alt="Frameworks" />
+<br>
+
 <img src="https://skillicons.dev/icons?i=php,go,js,ts" alt="Languages" />
 <br>
 
-### ⚡ Frameworks & Platforms
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,nextjs,vue" alt="Frameworks" />
-<br>
-
-### 🗄️ Infrastructure & Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,redis,nginx" alt="Databases" />
 
 <br><br>
