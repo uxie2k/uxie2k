@@ -5,12 +5,12 @@
 <br>
 
 <div>
-    <div style="display: flex; justify-content: center; gap: 20px;">
-        <img src="https://skillicons.dev/icons?i=laravel" />
-        <img src="https://skillicons.dev/icons?i=nextjs" />
-        <img src="https://skillicons.dev/icons?i=react" />
-        <img src="https://skillicons.dev/icons?i=vue" />
-    </div>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=laravel" hspace="10" />
+      <img src="https://skillicons.dev/icons?i=nextjs" hspace="10" />
+      <img src="https://skillicons.dev/icons?i=react" hspace="10" />
+      <img src="https://skillicons.dev/icons?i=vue" hspace="10" />
+    </p>
 <img src="https://skillicons.dev/icons?i=laravel,nodejs,go" />
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx" />
