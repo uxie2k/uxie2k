@@ -1,11 +1,10 @@
 <div align="center">
 
-# uxie
-### Frontend & Backend
+### uxie Frontend & Backend
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,nextjs,rect,vue" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,nextjs,react,vue" alt="Frameworks" />
 <br>
 
 <img src="https://skillicons.dev/icons?i=php,go,js,ts" alt="Languages" />
