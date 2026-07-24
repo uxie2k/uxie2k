@@ -11,6 +11,13 @@
       <img src="https://skillicons.dev/icons?i=react" hspace="10" />
       <img src="https://skillicons.dev/icons?i=vue" hspace="10" />
     </p>
+    
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=js" hspace="10" />
+      <img src="https://skillicons.dev/icons?i=ts" hspace="10" />
+      <img src="https://skillicons.dev/icons?i=react" hspace="10" />
+      <img src="https://skillicons.dev/icons?i=vue" hspace="10" />
+    </p>
 <img src="https://skillicons.dev/icons?i=laravel,nodejs,go" />
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx" />
