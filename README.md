@@ -8,15 +8,9 @@
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,vue,laravel,nodejs" />
 
-<br><br><br>
-
 <img src="https://skillicons.dev/icons?i=ts,js,php,go" />
 
-<br><br><br>
-
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx" />
-
-<br><br><br><br>
 
 <table>
 <tr>
