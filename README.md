@@ -1,10 +1,4 @@
-# Hi there, I'm a Fullstack / Backend Developer!
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+systems+%F0%9F%9A%80;Clean+architecture+%26+design+patterns+%E2%9A%99%EF%B8%8F;High-performance+backends+%F0%9F%94%A5;Database+optimization+%26+tuning+%F0%9F%97%84%EF%B8%8F" alt="Typing SVG" />
-  </a>
-</p>
+# Hi there, I'm a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=32&pause=1000&color=00ADD8&vCenter=true&width=350&lines=Fullstack+Developer!;Backend+Developer!)](https://git.io/typing-svg)
 
 ---
 
