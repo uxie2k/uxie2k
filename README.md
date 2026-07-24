@@ -4,15 +4,15 @@
   <h1>✨ uxie</h1>
   <p>🚀 <b>Frontend & Backend Developer</b></p>
 
-  <br><br>
+  <br>
 
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,nextjs,react,vue" alt="Frameworks" />
 
-  <br><br>
+  <br>
 
   <img src="https://skillicons.dev/icons?i=php,go,js,ts" alt="Languages" />
 
-  <br><br>
+  <br>
 
   <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,redis,nginx" alt="Databases" />
 
