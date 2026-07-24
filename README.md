@@ -4,7 +4,7 @@
 
 ### `Frontend • Backend • Full Stack`
 
-<br
+<br>
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,vue,laravel,nodejs" />
 
