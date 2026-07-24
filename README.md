@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+there!+👋;I'm+a+Fullstack+%2F+Backend+Developer;Welcome+to+my+profile!&color=36BCF7" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <em>Building scalable, high-performance systems with clean architecture and modern technologies.</em>
-</p>
-
 ### 💻 Tech Stack
 
 <div align="center">
@@ -46,13 +42,3 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uxie2k&theme=tokyonight" alt="Profile Details" />
 </p>
-
-<!-- 
-https://github.com/Platane/snk 
--->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/uxie2k/uxie2k/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
