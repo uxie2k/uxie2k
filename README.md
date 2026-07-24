@@ -1,49 +1,31 @@
 <div align="center">
 
-# ✦ uxie
+# uxie
 
-### `Frontend • Backend • Full Stack`
+```ts
+const developer = {
+    role: "Full Stack Developer",
+    backend: ["Laravel", "Node.js", "Go"],
+    frontend: ["Next.js", "React", "Vue"],
+    database: ["PostgreSQL", "MySQL", "Redis"],
+    devops: ["Docker", "Nginx"]
+};
+```
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,laravel,nodejs" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uxie2k&theme=tokyonight" />
 
-<img src="https://skillicons.dev/icons?i=ts,js,php,go" />
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,go" />
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx" />
-
-<table>
-<tr>
-<td align="center" style="padding-right:18px;">
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uxie2k&theme=tokyonight"
-width="470"/>
-</td>
-
-<td align="center" style="padding-left:18px;">
-<img
-src="https://github-readme-stats.vercel.app/api?username=uxie2k&show_icons=true&theme=tokyonight&hide_border=true"
-width="360"/>
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td align="center" style="padding-right:18px;">
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxie2k&layout=compact&theme=tokyonight&hide_border=true"
-width="360"/>
-</td>
-
-<td align="center" style="padding-left:18px;">
-<img
-src="https://github-readme-streak-stats.herokuapp.com?user=uxie2k&theme=tokyonight&hide_border=true"
-width="470"/>
-</td>
-</tr>
-</table>
 
 </div>
