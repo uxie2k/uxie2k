@@ -2,16 +2,10 @@
 
 # uxie
 
-```ts
-const developer = {
-    role: "Full Stack Developer",
-};
-```
-
 <br>
 
-<div display="flex">
-    <div align="center">
+<div>
+    <div align="center" display="flex" gap="20px">
         <img src="https://skillicons.dev/icons?i=laravel" />
         <img src="https://skillicons.dev/icons?i=nextjs" />
         <img src="https://skillicons.dev/icons?i=react" />
