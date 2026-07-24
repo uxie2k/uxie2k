@@ -5,7 +5,7 @@
 <br>
 
 <div>
-    <div align="center" display="flex" gap="20px">
+    <div style="display: flex; justify-content: center; gap: 20px;">
         <img src="https://skillicons.dev/icons?i=laravel" />
         <img src="https://skillicons.dev/icons?i=nextjs" />
         <img src="https://skillicons.dev/icons?i=react" />
