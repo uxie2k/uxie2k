@@ -6,19 +6,15 @@
 <br>
 
 ### 🔤 Languages
-<img src="https://skillicons.dev/icons?i=php,go,js,ts,py,cs,cpp" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=php,go,js,ts" alt="Languages" />
 <br>
 
 ### ⚡ Frameworks & Platforms
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,nextjs,vue,react,svelte,redux,sass" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,nextjs,vue" alt="Frameworks" />
 <br>
 
 ### 🗄️ Infrastructure & Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx,linux" alt="Databases" />
-<br>
-
-### 🛠️ Tools & Editors
-<img src="https://skillicons.dev/icons?i=git,githubactions,vscode,visualstudio,neovim,pycharm" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,redis,nginx" alt="Databases" />
 
 <br><br>
 
