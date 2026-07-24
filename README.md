@@ -13,16 +13,16 @@
     <img src="https://skillicons.dev/icons?i=vue" hspace="10" />
   </p>
   <p>
+    <img src="https://skillicons.dev/icons?i=php" hspace="10" />
+    <img src="https://skillicons.dev/icons?i=go" hspace="10" />
     <img src="https://skillicons.dev/icons?i=js" hspace="10" />
     <img src="https://skillicons.dev/icons?i=ts" hspace="10" />
-    <img src="https://skillicons.dev/icons?i=react" hspace="10" />
-    <img src="https://skillicons.dev/icons?i=vue" hspace="10" />
   </p>
   <p>
     <img src="https://skillicons.dev/icons?i=postgres" hspace="10" />
     <img src="https://skillicons.dev/icons?i=mysql" hspace="10" />
-    <img src="https://skillicons.dev/icons?i=redis" hspace="10" />
     <img src="https://skillicons.dev/icons?i=docker" hspace="10" />
+    <img src="https://skillicons.dev/icons?i=redis" hspace="10" />
     <img src="https://skillicons.dev/icons?i=nginx" hspace="10" />
   </p>
 </div>
