@@ -1,6 +1,6 @@
 <div align="center">
 
-# uxie
+# uxie fullstack/backend developer
 
 <br>
 
