@@ -26,7 +26,3 @@
     <img src="https://skillicons.dev/icons?i=nginx" hspace="10" />
   </p>
 </div>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uxie2k&theme=tokyonight" />
